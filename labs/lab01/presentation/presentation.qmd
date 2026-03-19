@@ -10,6 +10,20 @@ author:
 title: "Лабораторная работа 1"
 subtitle: "Имитационное моделирование"
 date-format: "2026-02-21"
+format:
+  pdf:
+    engine: lualatex
+    fontfamily: libertinus
+    fontsize: 12pt
+    geometry: margin=1in
+    header-includes: |
+      \usepackage{fontspec}
+      \setmainfont{Libertinus Serif}
+      \setsansfont{Libertinus Sans}
+      \setmonofont{Libertinus Mono}
+      \usepackage{polyglossia}
+      \setmainlanguage{russian}
+      \setotherlanguage{english}
 ---
 
 # Вводная часть
