@@ -1,4 +1,4 @@
-# [1.0.0](https://github.com/avbogdanyuk/2026-1--study--simulation-modeling/compare/v1.0.4...v1.0.0) (2026-04-04)
+# [1.0.0](https://github.com/avbogdanyuk/2026-1--study--simulation-modeling/compare/v1.0.4...v1.0.0) (2026-04-18)
 
 
 ### Features
@@ -8,6 +8,7 @@
 * **main:** lab03 ([4658f1e](https://github.com/avbogdanyuk/2026-1--study--simulation-modeling/commit/4658f1e4d6c1e914e3611fa0e22121453b60d00c))
 * **main:** lab03 complete ([d93a942](https://github.com/avbogdanyuk/2026-1--study--simulation-modeling/commit/d93a942faf3fb980195f43efa2552fe5d3cb3185))
 * **main:** lab04 update ([6459ce7](https://github.com/avbogdanyuk/2026-1--study--simulation-modeling/commit/6459ce70b83e268a37a040ed8203532e1262b453))
+* **main:** lab05 update ([9ede7de](https://github.com/avbogdanyuk/2026-1--study--simulation-modeling/commit/9ede7dedda616d5c35ab0aa275e0e459146fb25f))
 * **main:** lab3 report and presentation ([d958036](https://github.com/avbogdanyuk/2026-1--study--simulation-modeling/commit/d958036c1595dc11ec5f8da7d171dad8744d8af1))
 
 
